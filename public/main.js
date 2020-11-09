@@ -24,9 +24,9 @@ setInterval(()=>{
 
 checkbox.onchange = (event) =>{
     if(event.target.checked){
-        img.src = "../assets/Night_5.png"
+        img.src = "https://yussufsassi.github.io/landingpage/assets/Night_5.png"
     }else{
-        img.src = "../assets/Night_4.png"
+        img.src = "https://yussufsassi.github.io/landingpage/assets/Night_4.png"
     }
 }
 
